@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh Maurya</h1>
-<h3 align="center">A self-learned frontend dev committed to learning and upgrading my skills, which adds value to personal and professional projects.</h3>
+<h3 align="center">A self-learned and passionate frontend developer committed to learning and upgrading my skills, which adds value to personal and professional development.</h3>
 
 <img align='right' alt='coding' width='400' src='https://github.com/rishu1411/rishu1411/blob/main/GitHubBanner.gif'/>
 
