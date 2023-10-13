@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishabh Maurya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align='right' alt='coding' width='400' src='https://github.com/rishu1411/rishu1411/blob/main/baner.gif'/>
+<img align='right' alt='coding' width='400' src='https://www.canva.com/design/DAFxIP1GH9o/RjyioXJMHpI-9-g1bOekjA/edit?utm_content=DAFxIP1GH9o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton'/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishu1411&label=Profile%20views&color=0e75b6&style=flat" alt="rishu1411" /> </p>
 
